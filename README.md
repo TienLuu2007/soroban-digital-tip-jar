@@ -15,7 +15,7 @@ The Soroban Digital Tip Jar is a decentralized web3 application designed to allo
 Contract link: [Contract CDLTWAARWFKCSPDWM6X2DB7VZMQWOXKIHZLK7V4RJZTW56C4IQIWJQ7C](https://stellar.expert/explorer/testnet/contract/CDLTWAARWFKCSPDWM6X2DB7VZMQWOXKIHZLK7V4RJZTW56C4IQIWJQ7C)
 
 ### Contract Deployment Confirmation
-![Contract's screenshot](https://drive.google.com/file/d/1dvR-2bkdvhDAZ84KSwd1CaNY3qwyIAfN/view?usp=sharing)
+<img width="2772" height="1522" alt="image" src="https://github.com/user-attachments/assets/8c9e838d-ed1c-433f-b249-2664df2d99aa" />
 
 # Future scopes
 * **Multi-Asset Support:** Update the smart contract logic to accept a wider range of Stellar-native tokens and fiat-backed stablecoins.
